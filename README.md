@@ -1,6 +1,6 @@
 ## Engine Performance Comparison between Laser and Conventional Ignition Systems
 
-This project compares the performance of a **Honda Future FI 125cc engine** using a **Laser Ignition System (LIS)** and a **Conventional Ignition System (CIS)** through simulation. The analysis focuses on **combustion efficiency, pressure, temperature, and overall engine performance**.
+This project compares the performance of a **engine** using a **Laser Ignition System (LIS)** and a **Conventional Ignition System (CIS)** through simulation. The analysis focuses on **combustion efficiency, pressure, temperature, and overall engine performance**.
 
 ---
 
